@@ -8,8 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello AWS DevOps</h1>
-        <p>MediaNocheLabs - Erikson</p>
-        <p>Este curso es super chevere!!</p>
+        <p>MediaNoche Labs</p>
+        <p>Este curso es super cheverazo!!</p>
       </header>
     </div>
   );
