@@ -9,6 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>Hello AWS DevOps</h1>
         <p>MediaNocheLabs - Erikson</p>
+        <p>Este curso es super chevere!!</p>
       </header>
     </div>
   );
